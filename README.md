@@ -3,6 +3,7 @@ Move a Particle on the screen
 
 - Language : C++
 - Framework : OpenGL
+- OS : macOS
 - IDE : Xcode 10
 
 A square moving across the screen each time a key is pressed
