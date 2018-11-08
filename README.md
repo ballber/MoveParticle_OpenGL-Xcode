@@ -9,4 +9,6 @@ A square moving across the screen each time a key is pressed
 
 The movement takes 1 second
 
+![](MoveParticle-Screenshot.png)
+
 main code : https://github.com/ballber/MoveParticle_OpenGL-Xcode/blob/master/MoveParticle_OpenGL-Xcode/main.cpp
