@@ -98,7 +98,7 @@ void particle::integrate(long t)
 
 void particle::draw()
 {
-    glColor3f(1,1,1);
+    glColor3f(1,0,0); // RGB color : 1,1,1 white
     glBegin(GL_QUADS);
     glVertex2i(x-6,y-6);
     glVertex2i(x+6,y-6);
