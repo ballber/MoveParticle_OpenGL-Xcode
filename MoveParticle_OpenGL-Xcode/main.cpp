@@ -118,7 +118,7 @@ long last_t=0;
 
 int main(int argc,char *argv[])
 {
-    srand(time(NULL));
+    srand((unsigned int)time(NULL));
     square.set_position(50,50);
     
     glutInit(&argc, argv);
